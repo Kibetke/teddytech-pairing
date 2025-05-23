@@ -91,7 +91,7 @@ Dont forget to fork the repo ⬇️
 
 https://github.com/Teddytech1/TEDDY-XMD
 
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ*`; 
+> *© Powered by Teddy-Tech*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
