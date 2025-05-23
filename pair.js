@@ -96,7 +96,7 @@ https://github.com/Teddytech1/TEDDY-XMD
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍʀ.ᴄᴀsᴇʏʀʜᴏᴅᴇs",
+title: "TEDDY-TECH",
 thumbnailUrl: "",
 sourceUrl: "https://whatsapp.com/channel/0029Vb4WwGo4CrffIZhlnv1Y",
 mediaType: 1,
