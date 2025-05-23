@@ -1,7 +1,7 @@
 {
 "name": "web-pair",
     "version": "0.0.1",
-    "description": "A multi functional whatsapp bot Web paircode.",
+    "description": "A multi functional new whatsapp bot Web paircode.",
     "main": "index.js",
     "scripts": {
       "start": "pm2 start index.js --deep-monitoring --attach --name vajira-md",
